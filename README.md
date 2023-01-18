@@ -24,6 +24,8 @@
 <a href="https://twitter.com/pallavisharma66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pallavisharma66" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pallavisharma561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pallavisharma561" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pallavi-sharma-36baaa211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavi-sharma-36baaa211" height="30" width="40" /></a>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="pallavi-sharma-36baaa211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pallavi-sharma-36baaa211?trk=profile-badge">Pallavi Sharma</a></div>
+              
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
