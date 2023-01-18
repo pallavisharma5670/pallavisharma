@@ -6,6 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pallavisharma5670&label=Profile%20views&color=0e75b6&style=flat" alt="pallavisharma5670" /> </p>
 
 <p align="left"> <a href="https://twitter.com/pallavisharma66" target="blank"><img src="https://img.shields.io/twitter/follow/pallavisharma66?logo=twitter&style=for-the-badge" alt="pallavisharma66" /></a> </p>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="pallavi-sharma-36baaa211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pallavi-sharma-36baaa211?trk=profile-badge">Pallavi Sharma</a></div>
+              
 
 - 🔭 I’m currently working on **A food ordering website.**
 
