@@ -24,7 +24,7 @@
 <a href="https://twitter.com/pallavisharma66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pallavisharma66" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pallavisharma561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pallavisharma561" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pallavisharma5670" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pallavisharma5670" height="30" width="40" /></a>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="pallavi-sharma-36baaa211" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pallavisharma5670?trk=profile-badge">Pallavi Sharma</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="pallavisharma5670" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pallavisharma5670?trk=profile-badge">Pallavi Sharma</a></div>
               
 </p>
 
