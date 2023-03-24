@@ -1,4 +1,9 @@
 
+![Keyboard (2)](https://user-images.githubusercontent.com/122520154/227489462-7c7e0ced-71b1-4629-af04-ec2af6550f3d.jpg)
+
+
+
+
 <h1 align="center">Hi 👋, I'm Pallavi Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
