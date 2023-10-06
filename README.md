@@ -21,7 +21,7 @@
 
 - 🤝 I’m looking for help on **my project.**
 
-- 📫 How to reach me **pallavisharma5670@gmail.com**
+- 📫 How to reach me **pallavisharma5670@gmail.com** or **https://pallavisharma11.netlify.app/**
 
 - ⚡ Fun fact **People think they are highly skilled.**
 
